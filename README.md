@@ -1,2 +1,2 @@
 # git-test
-Testing how the git works
+This is to test how git works.
